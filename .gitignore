@@ -1,0 +1,24 @@
+# --- Virtual Environment ---
+# Ignore the virtual environment folder entirely
+venv/
+
+# --- IDE/Editor ---
+# Ignore VS Code specific settings and cache
+.vscode/
+
+# --- Python ---
+# Ignore Python cache files (generated automatically)
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# --- OS ---
+# Ignore macOS specific files 
+.DS_Store
+
+# --- Streamlit ---
+# Ignore Streamlit cache/config 
+.streamlit/
+
