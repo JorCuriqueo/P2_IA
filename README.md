@@ -1,2 +1,3 @@
 # P2_IA
-para la prueba 2 de ia
+Profe disculpe lo tuvimos que subir a otro git y no pude editarle el mensaje en el ava.
+Esta en el siguiente: https://github.com/JorCuriqueo/Prueba2
